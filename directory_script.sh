@@ -1,0 +1,16 @@
+mkdir week_1 week_1/day_1 week_1/day_2 week_1/day_3 week_1/day_4
+mkdir week_2 week_2/day_1 week_2/day_2 week_2/day_3 week_2/day_4
+mkdir week_3 week_3/day_1 week_3/day_2 week_3/day_3 week_3/day_4
+mkdir week_4 week_4/day_1 week_4/day_2 week_4/day_3 week_4/day_4
+mkdir week_5 week_5/day_1 week_5/day_2 week_5/day_3 week_5/day_4
+mkdir week_6 week_6/day_1 week_6/day_2 week_6/day_3 week_6/day_4
+mkdir week_7 week_7/day_1 week_7/day_2 week_7/day_3 week_7/day_4
+mkdir week_8 week_8/day_1 week_8/day_2 week_8/day_3 week_8/day_4
+mkdir week_9 week_9/day_1 week_9/day_2 week_9/day_3 week_9/day_4
+mkdir week_10 week_10/day_1 week_10/day_2 week_10/day_3 week_10/day_4
+mkdir week_11 week_11/day_1 week_11/day_2 week_11/day_3 week_11/day_4
+mkdir week_12 week_12/day_1 week_12/day_2 week_12/day_3 week_12/day_4
+mkdir week_13 week_13/day_1 week_13/day_2 week_13/day_3 week_13/day_4
+mkdir week_14 week_14/day_1 week_14/day_2 week_14/day_3 week_14/day_4
+mkdir week_15 week_15/day_1 week_15/day_2 week_15/day_3 week_15/day_4
+mkdir week_16 week_16/day_1 week_16/day_2 week_16/day_3 week_16/day_4
